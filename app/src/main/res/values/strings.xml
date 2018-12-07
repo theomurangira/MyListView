@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string-array name="items">
+        <item>Database Management Systems</item>
+        <item> Operating Systems</item>
+        <item>Data Mining</item>
+    </string-array>
+</resources>
